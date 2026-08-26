@@ -1,5 +1,3 @@
-# jcbasilio.github.io
-QRCode Emi Estamparia
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
